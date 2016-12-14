@@ -1,6 +1,6 @@
 Intel Edison Workshop 2016
 --------------------------
-A 3-day introductory skill-building workshop on Intel Edison development which focuses on developing IoT (Internet-of-Things) applications towards elementary prototype development with Node.js. This workshop is a work jointly by Intel Penang, Malaysia Digital Economy Corporation (MDEC) and Universiti Sains Malaysia. 
+A 3-day introductory skill-building workshop on Intel Edison development which focuses on developing IoT (Internet-of-Things) applications towards elementary prototype development with Node.js. This workshop is a work jointly by Intel Penang, Malaysia Digital Economy Corporation (MDEC), Universiti Sains Malaysia and Universiti Putra Malaysia. 
 
 Part 1: IoT Development with Intel Edison
 -----------------------------------------
