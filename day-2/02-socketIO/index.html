@@ -1,0 +1,18 @@
+<html>
+    <head><title>client</title>
+        <script src="https://cdn.socket.io/socket.io-1.4.5.js"></script>
+        <script>
+            var socket = io("http://localhost:11111");
+            socket.on('msg', function(data) {
+                document.getElementById("myspan").textContent = data;
+            });
+
+            socket.close();
+        </script>
+    </head>
+    
+    <body>
+        <h1>HTTP-Express</h1>
+        <span id="myspan">data</span>
+    </body>
+</html>

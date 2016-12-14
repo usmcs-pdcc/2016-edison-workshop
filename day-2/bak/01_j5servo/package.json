@@ -1,0 +1,15 @@
+{
+  "name": "j5servo",
+  "description": "Intel® XDK IoT Nodejs for random Servo movement with Johnny-Five",
+  "version": "0.0.1",
+  "main": "main.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "BSD-3-Clause",
+  "private": true,
+  "dependencies": {
+      "johnny-five": "*",
+      "edison-io": "*"
+  }
+}

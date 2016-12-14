@@ -1,0 +1,7 @@
+{
+  "name": "mqtt-server",
+  "description": "A simple mqtt broker (mosca). Template by StoneWork at templated.co",
+  "dependencies": {
+    "mosca": "^2.2.0"
+  }
+}

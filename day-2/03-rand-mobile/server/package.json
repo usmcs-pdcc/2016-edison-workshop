@@ -1,0 +1,9 @@
+{
+  "name": "http-express",
+  "description": "simple http-express example",
+  "dependencies": {
+    "express": "*",
+    "generate-random-data": "0.0.3",
+    "socket.io": "*"
+  }
+}

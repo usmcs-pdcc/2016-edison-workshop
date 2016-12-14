@@ -1,0 +1,32 @@
+/*
+ * author: hadrihl hadrihilmi@gmail.com
+*/
+
+.background {
+    background: url('wallpaper.jpg') no-repeat center;
+    background-size: auto;
+}
+
+#div1 {
+    width: 98%;
+    height: 200px;
+    box-sizing: border-box;
+    float: center;
+}
+
+#div2 {
+    width: 90%;
+    height: 150px;
+    box-sizing: content-box;
+    float: center;
+    padding-top: 30px;
+}
+
+.c3-region-1 {
+    fill: #dd3333;
+    fill-opacity: 0.8
+}
+
+#ipaddr {
+    float: center;
+}

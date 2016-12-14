@@ -1,0 +1,14 @@
+{
+    "org.apache.cordova.device": {
+        "source": {
+            "type": "local",
+            "path": "/opt/intel/XDK_IoT_Edition/xdk/components/server/cordova-plugins/org.apache.cordova.device"
+        }
+    },
+    "org.apache.cordova.splashscreen": {
+        "source": {
+            "type": "local",
+            "path": "/opt/intel/XDK_IoT_Edition/xdk/components/server/cordova-plugins/org.apache.cordova.splashscreen"
+        }
+    }
+}

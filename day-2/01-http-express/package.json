@@ -1,0 +1,7 @@
+{
+  "name": "http-express",
+  "description": "simple http-express example",
+  "dependencies": {
+    "express": "*"
+  }
+}

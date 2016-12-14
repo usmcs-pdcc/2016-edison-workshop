@@ -1,0 +1,10 @@
+{
+  "name": "edison-j5servo",
+  "description": "Using Servo with Johnny-Five.",
+  "version": "0.0.1",
+  "dependencies": {
+      "johnny-five": "*",
+      "edison-io": "*",
+      "mqtt": "*"
+  }
+}
