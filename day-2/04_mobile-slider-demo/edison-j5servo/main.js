@@ -25,7 +25,16 @@ board.on("ready", function() {
   io.on('connect', function(socket) {
   	socket.on('msg', function(data) {
 		value = data;
-		servo.to(value);
+
+    setInterval(function() {
+      // open lid: definition
+      servo.to(80);
+      delay(1000);
+      servo.to(0);
+
+    }, 1000);
+		
+    servo.to(value);
 		console.log("value: " + value);
 	});
   });
